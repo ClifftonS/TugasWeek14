@@ -1,0 +1,10 @@
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\bin\Debug\TugasWeek14.exe.config
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\bin\Debug\TugasWeek14.exe
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\bin\Debug\TugasWeek14.pdb
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.csprojAssemblyReference.cache
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.Form1.resources
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.Properties.Resources.resources
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.csproj.GenerateResource.cache
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.csproj.CoreCompileInputs.cache
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.exe
+C:\Users\Cliffton.S\source\repos\TugasWeek14\TugasWeek14\obj\Debug\TugasWeek14.pdb
